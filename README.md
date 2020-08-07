@@ -9,5 +9,5 @@ I'm a FullStack Developer :rocket:
  :wink: &nbsp; Looking for increase my knowledge and for contributing to others peolpe projects\
  :computer: &nbsp; My stack: ReactJS, Node.js, React Native & Typescript\
  :mag_right: &nbsp; I’m looking for help with: project ideas and tips on libs and best practices \
- :v: &nbsp; About me: I like to develop cool interfaces, code, gaming and study, this is my weekly routine (:coffee: &nbsp; I really like to drink coffee).\
+ :v: &nbsp; About me: I like to develop cool interfaces, code, gaming and study, this is my weekly routine (:coffee: &nbsp; I really like to drink coffee).
 

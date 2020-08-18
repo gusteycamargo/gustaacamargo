@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-camargo25.gustavo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camargo25.gustavo@gmail.com)](mailto:camargo25.gustavo@gmail.com)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=gustaacamargo&count_private=true&hide=prs,issues](https://github.com/gustaacamargo)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=gustaacamargo&count_private=true&hide=prs,issues)](https://github.com/gustaacamargo)
 
 Passionate about how technology can change people's lives\
 I'm a FullStack Developer :rocket:

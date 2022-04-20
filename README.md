@@ -9,7 +9,7 @@
 Passionate about how technology can change people's lives\
 I'm a FullStack Developer :rocket:
 
-<p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustaacamargo&theme=onedark&row=1&margin-w=5" alt="gustaacamargo" /></a> </p>
+<p align="left" style="margin-top:10px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustaacamargo&title=MultiLanguage,Commits,Followers,Stars,Repositories,PullRequest&theme=dracula&row=1&margin-w=5" alt="gustaacamargo" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustaacamargo&layout=compact" alt="gustaacamargo" /></p>
 
